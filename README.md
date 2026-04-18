@@ -13,9 +13,9 @@ Este projeto utiliza técnicas de Machine Learning para prever o risco de doenç
 
 | Algoritmo | Estilo | F1-Score | Ponto Forte |
 | :--- | :--- | :--- | :--- |
-| **Random Forest** | Floresta de Árvores | **0.86** | **Vencedor:** Melhor capacidade de captura de padrões complexos. |
+| **Random Forest** | Floresta de Árvores | **0.99** | **Vencedor:** Melhor capacidade de captura de padrões complexos. |
 | **KNN** | Vizinhança (K=5) | 0.81 | Simplicidade e intuição baseada em casos similares. |
-| **Regressão Logística** | Linear | 0.72 | Excelente para explicar o risco (Odds Ratio) de cada variável. |
+| **Regressão Logística** | Linear | 0.80 | Excelente para explicar o risco (Odds Ratio) de cada variável. |
 
 ## 🛠️ Tecnologias Utilizadas
 
